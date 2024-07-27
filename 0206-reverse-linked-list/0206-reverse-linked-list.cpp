@@ -13,26 +13,24 @@ public:
     ListNode* reverseList(ListNode* head)
      {
 
-        stack<int>st;
         if(head == NULL || head->next==NULL)
         {
             return head;
         }
 
         struct ListNode *temp=head;
-        
-        while(temp!=NULL){
-            st.push(temp->val);
-            temp=temp->next;
-        }
-        temp=head;
+        struct ListNode *left=nullptr;
+        struct ListNode *right=head;
         while(temp!=NULL)
         {
-            temp->val=st.top();
-            st.pop();
-            temp=temp->next;
+            right=right->next;
+            temp->next=left;
+            left=temp;
+            temp=right;
+            
         }
-        return head;
+        
+        return left;
 
 
         
