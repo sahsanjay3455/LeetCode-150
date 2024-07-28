@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
