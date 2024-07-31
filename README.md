@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
+| [0459-repeated-substring-pattern](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0459-repeated-substring-pattern) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
