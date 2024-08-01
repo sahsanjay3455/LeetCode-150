@@ -17,6 +17,7 @@
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -42,6 +43,7 @@
 | [0234-palindrome-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0459-repeated-substring-pattern) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
