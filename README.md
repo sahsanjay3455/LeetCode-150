@@ -6,6 +6,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0136-single-number) |
+| [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
