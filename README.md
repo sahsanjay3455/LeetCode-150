@@ -25,6 +25,7 @@
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Counting
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 ## String Matching
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
