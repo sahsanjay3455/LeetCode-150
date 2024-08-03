@@ -8,6 +8,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -119,6 +120,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
