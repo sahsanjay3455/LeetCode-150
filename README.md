@@ -32,6 +32,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Counting
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0459-repeated-substring-pattern) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Simulation
 |  |
 | ------- |
@@ -145,4 +147,12 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0890-lemonade-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+## Hash Function
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
