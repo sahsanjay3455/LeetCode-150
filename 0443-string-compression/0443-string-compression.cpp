@@ -11,7 +11,7 @@ public:
     for (int i = 0; i < n ; i++) {
         char curr_ch = chars[i];
         int counter = 1;
-        while (i < n - 1 && chars[i + 1] == curr_ch) {
+        while (i < n-1  && chars[i+1] == curr_ch) {
             counter++;
             i++;
         }
