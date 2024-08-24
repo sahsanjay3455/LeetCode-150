@@ -1,28 +1,31 @@
 class Solution {
 public:
-    bool halvesAreAlike(string str) {
+bool isvowel(char &ch)
+{
+    ch=tolower(ch);
+    return (ch=='a'||ch=='e'|| ch=='i'|| ch=='o' || ch=='u');
+}
 
-        unordered_set<char>st={'a','e','i','o','u','A','E','I','O','U'};
-    int n=str.length();
+    bool halvesAreAlike(string str)
+{
+    int n=str.size();
+    int i=0;
     int mid=n/2;
-    int i=0,j=mid;
-    int countL=0,countR=0;
+    int j=mid;
+    int count_left=0,count_right=0;
+
     while(i<mid && j<n)
     {
-        if(st.find(str[i])!=st.end())countL++;
-        if(st.find(str[j])!=st.end())countR++;
-        i++;
-        j++;
+      if (isvowel(str[i])) count_left++;
+       if(isvowel(str[j])) count_right++;
+       i++;
+       j++;
+    }
+    if(count_left==count_right) return true;
 
-    }
-    if(countL==countR)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-        
-    }
+    return false;
+}
+
+
+    
 };
