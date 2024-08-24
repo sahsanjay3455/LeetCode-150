@@ -32,6 +32,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
+| [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -101,6 +102,7 @@
 | [0148-sort-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
+| [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
