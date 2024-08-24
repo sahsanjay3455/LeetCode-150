@@ -7,7 +7,7 @@ public:
         while(ss>>token)
         {
             reverse(begin(token),end(token));
-            result+=token+' ';
+            result+=token+" ";
         }
         return (result.substr(0,result.size()-1));
 
