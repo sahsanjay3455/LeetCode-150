@@ -29,6 +29,7 @@
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
