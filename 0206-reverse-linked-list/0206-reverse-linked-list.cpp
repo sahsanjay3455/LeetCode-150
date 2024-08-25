@@ -13,26 +13,21 @@ public:
     ListNode* reverseList(ListNode* head)
      {
 
-        if(head == NULL || head->next==NULL)
+        if(head==NULL || head->next==NULL)
         {
             return head;
         }
-
+        struct ListNode *left=NULL;
         struct ListNode *temp=head;
-        struct ListNode *left=nullptr;
         struct ListNode *right=head;
         while(temp!=NULL)
         {
-            right=right->next;
+            right=temp->next;
             temp->next=left;
             left=temp;
             temp=right;
-            
         }
-        
         return left;
-
-
         
     }
 };
