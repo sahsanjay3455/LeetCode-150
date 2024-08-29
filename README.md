@@ -15,6 +15,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0890-lemonade-change) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2107-find-unique-binary-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 ## String Matching
 |  |
