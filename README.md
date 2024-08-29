@@ -124,6 +124,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -139,6 +140,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
