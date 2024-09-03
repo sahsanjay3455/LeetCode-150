@@ -121,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -140,6 +141,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
