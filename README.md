@@ -132,6 +132,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
@@ -214,5 +216,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
