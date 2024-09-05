@@ -13,7 +13,8 @@ int solve(int i,int j,vector<vector<int>>& grid, vector<vector<int>>&dp)
 
     if(j>0) left=solve(i,j-1,grid,dp);
 
-     return dp[i][j] = grid[i][j] + min(up, left);
+    return dp[i][j] = grid[i][j] + min(up, left);
+
 
 }
     int minPathSum(vector<vector<int>>& grid) 
