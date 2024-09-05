@@ -12,6 +12,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -155,10 +157,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
 ## Prefix Sum
 |  |
