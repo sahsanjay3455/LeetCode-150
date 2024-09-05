@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
 | [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
 | [0392-is-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0443-string-compression) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0148-sort-list) |
@@ -127,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
