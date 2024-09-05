@@ -1,6 +1,15 @@
 
 class Solution {
 public:
+
+    int expandAroundCenter(const string& s, int left, int right) {
+        while (left >= 0 && right < s.size() && s[left] == s[right]) {
+            --left;
+            ++right;
+        }
+        return right - left - 1;  // Length of the palindrome
+    }
+    
     string longestPalindrome(string s) {
         if (s.empty()) return "";
         
@@ -22,12 +31,5 @@ public:
         return s.substr(start, end - start + 1);
     }
 
-private:
-    int expandAroundCenter(const string& s, int left, int right) {
-        while (left >= 0 && right < s.size() && s[left] == s[right]) {
-            --left;
-            ++right;
-        }
-        return right - left - 1;  // Length of the palindrome
-    }
+
 };
