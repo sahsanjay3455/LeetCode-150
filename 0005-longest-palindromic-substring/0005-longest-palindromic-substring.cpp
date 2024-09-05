@@ -1,35 +1,41 @@
 
 class Solution {
 public:
+    // Memoized function to check if substring s[start:end+1] is a palindrome
+    bool isPalindrome(const string& s, int start, int end, vector<vector<int>>& dp) {
+        // Base cases
+        if (start >= end) return true;  // Single character or empty substring
+        if (dp[start][end] != -1) return dp[start][end];  // Return memoized result
 
-    int expandAroundCenter(const string& s, int left, int right) {
-        while (left >= 0 && right < s.size() && s[left] == s[right]) {
-            --left;
-            ++right;
+        // Check if characters match and the inner substring is a palindrome
+        if (s[start] == s[end] && isPalindrome(s, start + 1, end - 1, dp)) {
+            dp[start][end] = true;
+            return true;
+        } else {
+            dp[start][end] = false;
+            return false;
         }
-        return right - left - 1;  // Length of the palindrome
     }
-    
+
     string longestPalindrome(string s) {
         if (s.empty()) return "";
-        
-        int start = 0, end = 0;
-        
-        for (int i = 0; i < s.size(); ++i) {
-            // Check for longest odd-length palindrome (centered at i)
-            int len1 = expandAroundCenter(s, i, i);
-            // Check for longest even-length palindrome (centered between i and i+1)
-            int len2 = expandAroundCenter(s, i, i + 1);
-            
-            int len = max(len1, len2);
-            if (len > end - start) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+
+        int n = s.size();
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        int start = 0;
+        int maxLength = 1;
+
+        for (int i = 0; i < n; ++i) {
+            for (int j = i; j < n; ++j) {
+                if (isPalindrome(s, i, j, dp)) {
+                    if (j - i + 1 > maxLength) {
+                        start = i;
+                        maxLength = j - i + 1;
+                    }
+                }
             }
         }
-        
-        return s.substr(start, end - start + 1);
+
+        return s.substr(start, maxLength);
     }
-
-
 };
