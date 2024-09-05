@@ -1,10 +1,10 @@
 class Solution {
 public:
+
 int countPrimes(int n) {
-    if (n <= 2) return 0; // No prime numbers less than 2
+    if (n < 2) return 0; // No prime numbers less than 2
     
     vector<bool> isPrime(n, true); // Boolean array to track prime status
-    
     isPrime[0] = isPrime[1] = false; // 0 and 1 are not prime numbers
     
     // Sieve of Eratosthenes
@@ -23,6 +23,6 @@ int countPrimes(int n) {
     }
     
     return primeCount;
-}
-
+        
+    }
 };
