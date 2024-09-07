@@ -21,9 +21,10 @@ bool solve(vector<int>&nums, vector<vector<int>>&dp,int i,int sum,int n)
         int sum= accumulate(begin(nums),end(nums),0);
 
         if(sum%2!=0)return false;
+
         int subset_sum=sum/2;
 
-        vector<vector<int>>dp(n,vector<int>(sum+1,-1));
+        vector<vector<int>>dp(n,vector<int>(sum+1/2,-1));
         return solve(nums,dp,0,subset_sum,n);
     }
 };
