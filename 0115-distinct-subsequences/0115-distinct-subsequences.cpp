@@ -19,8 +19,8 @@ public:
         }
 
         // Memoize the result
-        memo[i][j] = result;
-        return result;
+       return memo[i][j] = result;
+        
     }
     
     // Main function to calculate the number of distinct subsequences
