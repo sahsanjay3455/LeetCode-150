@@ -29,7 +29,7 @@ public:
         int m = t.size();
         
         // Memoization table initialized to -1
-        vector<vector<int>> memo(n, vector<int>(m, -1));
+        vector<vector<int>> memo(n+1, vector<int>(m+1, -1));
         
         // Start from the beginning of both strings
         return numDistinctHelper(s, t, 0, 0, memo);
