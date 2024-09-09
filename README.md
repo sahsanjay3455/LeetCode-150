@@ -51,6 +51,7 @@
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
+| [1170-shortest-common-supersequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1777-determine-if-two-strings-are-close) |
@@ -161,6 +162,7 @@
 | [0518-coin-change-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0583-delete-operation-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1250-longest-common-subsequence) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
