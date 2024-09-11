@@ -30,6 +30,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0890-lemonade-change) |
+| [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2107-find-unique-binary-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -56,6 +57,7 @@
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
+| [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -99,6 +101,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -112,6 +115,7 @@
 | [0141-linked-list-cycle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
+| [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -134,6 +138,7 @@
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
+| [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1777-determine-if-two-strings-are-close) |
 ## Merge Sort
 |  |
@@ -173,6 +178,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1250-longest-common-subsequence) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
