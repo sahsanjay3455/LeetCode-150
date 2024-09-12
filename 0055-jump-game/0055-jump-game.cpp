@@ -24,7 +24,7 @@ public:
     }
 
     bool canJump(vector<int>& nums) {
-        vector<int> memo(nums.size(), -1);  // Initialize memoization table with -1
+        vector<int> memo(nums.size()+1, -1);  // Initialize memoization table with -1
         return canJumpFromPosition(0, nums, memo);  // Start from position 0
     }
 };
