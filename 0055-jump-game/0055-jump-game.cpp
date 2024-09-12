@@ -3,7 +3,7 @@ public:
     // Helper function for memoization
     bool canJumpFromPosition(int position, vector<int>& nums, vector<int>& memo) {
         // Base case: If we've reached the last index, return true
-        if (position >= nums.size() - 1) return true;
+        if (position == nums.size() - 1) return true;
         
         // Check if this position has been computed before
         if (memo[position] != -1) return memo[position];
