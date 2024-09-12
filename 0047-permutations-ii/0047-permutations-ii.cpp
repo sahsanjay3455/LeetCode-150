@@ -1,39 +1,27 @@
 class Solution {
 public:
-   
-void permuteUniqueHelper(vector<int>& nums, vector<int>& current, set<vector<int>>& result, vector<bool>& used) {
-    // Base case: if current permutation size is equal to the nums size
-    if (current.size() == nums.size()) {
-        result.insert(current);  // Store the current permutation in the set
-        return;
+ // Helper function to generate permutations
+    void permuteHelper(vector<int>& nums, int start, set<vector<int>>& result) {
+        // Base case: if start index reaches the end of the array
+        if (start == nums.size()) {
+            result.insert(nums);  // Store the current permutation
+            return;
+        }
+
+        // Generate permutations by swapping the current index with each subsequent element
+        for (int i = start; i < nums.size(); i++) {
+            swap(nums[start], nums[i]);  // Swap the current element with the start element
+            permuteHelper(nums, start + 1, result);  // Recurse for the next index
+            swap(nums[start], nums[i]);  // Backtrack to restore original order
+        }
     }
 
-    for (int i = 0; i < nums.size(); i++) {
-        if (used[i]) continue;  // Skip if the element is already used
+    // Main function to get unique permutations
+    vector<vector<int>> permuteUnique(vector<int>& nums) {
+        set<vector<int>> result;  // Set to store unique permutations
+        permuteHelper(nums, 0, result);  // Call helper function starting from index 0
 
-        // Mark the current element as used
-        used[i] = true;
-        current.push_back(nums[i]);  // Add the element to the current permutation
-
-        // Recurse for the next element
-        permuteUniqueHelper(nums, current, result, used);
-
-        // Backtrack by removing the element and marking it as unused
-        current.pop_back();
-        used[i] = false;
+        // Convert set to vector for the result
+        return vector<vector<int>>(begin(result), end(result));
     }
-}
-
-vector<vector<int>> permuteUnique(vector<int>& nums) {
-    set<vector<int>> result;  // Set to store unique permutations
-    vector<int> current;      // Current permutation
-    vector<bool> used(nums.size(), false);  // Used flags to track elements in the current permutation
-    
-    // Start backtracking
-    permuteUniqueHelper(nums, current, result, used);
-    
-    // Convert set to vector for final output
-    return vector<vector<int>>(result.begin(), result.end());
-}
-
 };
