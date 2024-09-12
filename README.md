@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0078-subsets) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
 | [2107-find-unique-binary-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2107-find-unique-binary-string) |
