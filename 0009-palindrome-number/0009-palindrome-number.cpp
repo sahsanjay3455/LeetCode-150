@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+
+
 class Solution {
 public:
     bool isPalindrome(int x) {
@@ -16,7 +19,8 @@ public:
             rem = num % 10;
             
             // Check for overflow before updating sum
-            if (sum > (std::numeric_limits<int>::max() - rem) / 10) {
+
+            if (sum > (INT_MAX- rem) / 10) {
                 return false;
             }
             
