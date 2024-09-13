@@ -35,6 +35,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0518-coin-change-ii) |
@@ -136,6 +137,7 @@
 | [0141-linked-list-cycle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -232,6 +234,7 @@
 | [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -303,4 +306,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
