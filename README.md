@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0046-permutations) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0141-linked-list-cycle) |
