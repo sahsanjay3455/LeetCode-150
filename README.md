@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
@@ -83,6 +84,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -145,11 +148,13 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
