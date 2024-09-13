@@ -231,6 +231,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
