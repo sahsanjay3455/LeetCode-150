@@ -17,7 +17,7 @@ public:
         }
 
         // Reverse the collected vowels
-        reverse(v.begin(), v.end());
+        reverse(begin(v), end(v));
         
         int j = 0;
 
