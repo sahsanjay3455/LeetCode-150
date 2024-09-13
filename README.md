@@ -30,6 +30,7 @@
 | [0198-house-robber](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0322-coin-change) |
@@ -158,6 +159,7 @@
 | [0088-merge-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
@@ -297,4 +299,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
