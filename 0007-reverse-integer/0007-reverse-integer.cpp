@@ -2,6 +2,10 @@ class Solution {
 public:
         int reverse(int x) {
         int reversedNum = 0;
+        if(x>=0 && x<10)
+        {
+            return x;
+        }
 
         while (x != 0) {
             int digit = x % 10;
