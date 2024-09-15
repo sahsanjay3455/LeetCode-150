@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0151-reverse-words-in-a-string) |
@@ -194,6 +195,7 @@
 | [0063-unique-paths-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
