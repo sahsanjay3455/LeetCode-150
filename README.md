@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0115-distinct-subsequences) |
@@ -133,6 +134,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1013-fibonacci-number) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
@@ -281,6 +284,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
