@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [1197-parsing-a-boolean-expression](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1197-parsing-a-boolean-expression) |
@@ -206,6 +208,7 @@
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -290,6 +293,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
@@ -335,4 +339,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
