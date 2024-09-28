@@ -41,6 +41,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -153,6 +154,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [1197-parsing-a-boolean-expression](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1197-parsing-a-boolean-expression) |
 ## Divide and Conquer
@@ -345,4 +348,5 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
