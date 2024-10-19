@@ -48,6 +48,7 @@
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0890-lemonade-change) |
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2107-find-unique-binary-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2107-find-unique-binary-string) |
@@ -239,6 +240,7 @@
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -299,6 +301,7 @@
 | [0063-unique-paths-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
