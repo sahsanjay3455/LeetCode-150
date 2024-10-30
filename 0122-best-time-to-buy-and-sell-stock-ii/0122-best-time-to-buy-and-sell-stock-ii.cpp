@@ -1,8 +1,9 @@
 class Solution {
 public:
+ int profit=0;
 int fun(int ind,int buy,vector<int>&prices,int n,vector<vector<int>>&dp)
 {
-    int profit=0;
+   
     if(ind==n)
     {
         return 0;
