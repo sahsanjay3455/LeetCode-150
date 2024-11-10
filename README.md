@@ -95,6 +95,7 @@
 | [2107-find-unique-binary-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3210-count-beautiful-substrings-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 ## Counting
