@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0162-find-peak-element) |
@@ -154,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0169-majority-element) |
@@ -355,4 +357,8 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
