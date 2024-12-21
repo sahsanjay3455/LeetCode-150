@@ -46,6 +46,7 @@
 | [0518-coin-change-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0890-lemonade-change) |
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
@@ -174,6 +175,7 @@
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0874-backspace-string-compare) |
 | [1197-parsing-a-boolean-expression](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1197-parsing-a-boolean-expression) |
 ## Divide and Conquer
@@ -190,6 +192,7 @@
 | [0274-h-index](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0807-custom-sort-string) |
 | [0935-orderly-queue](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0935-orderly-queue) |
 | [1129-longest-string-chain](https://github.com/sahsanjay3455/LeetCode-150/tree/master/1129-longest-string-chain) |
@@ -317,6 +320,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0890-lemonade-change) |
 ## Rolling Hash
 |  |
@@ -358,6 +362,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0780-max-chunks-to-make-sorted) |
 ## Union Find
 |  |
 | ------- |
