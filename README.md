@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0189-rotate-array) |
@@ -306,6 +308,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/sahsanjay3455/LeetCode-150/tree/master/0085-maximal-rectangle) |
